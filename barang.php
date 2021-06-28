@@ -1,6 +1,6 @@
 <?php
 
-class barang extends Contr
+class barang extends Controller
 {
 	public function index()
 	{
